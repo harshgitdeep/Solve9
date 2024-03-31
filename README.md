@@ -4,6 +4,10 @@
 
 Solve9 is a simple Sudoku solver that uses a backtracking algorithm to find the solution for a given Sudoku puzzle. This project provides a user-friendly interface where users can input their Sudoku puzzle and click the "Solve" button to get the solution.
 
+## Screenshots
+<img width="384" alt="Screenshot" src="https://github.com/harshgitdeep/Solve9/assets/88957566/854d84a5-85d5-4a99-85cc-82553b96e2ca">
+
+
 ## Live Hosted
 
 You can try out the Sudoku solver live [here](https://solve9.netlify.app/). 

@@ -1,4 +1,4 @@
-body {
+abody {
     font-family: 'Roboto', sans-serif;
     text-align: center;
     background-color: #a9b7ac;
@@ -7,26 +7,6 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-}
-
-#buttonContainer {
-    margin-top: 20px;
-    display: flex;
-}
-
-button {
-    padding: 10px 20px;
-    font-size: 16px;
-    background-color: #2f6547;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    margin: 5px;
-}
-
-button:hover {
-    background-color: rgb(40, 71, 55);
 }
 
 header {
@@ -80,6 +60,9 @@ main {
 
 #buttonContainer {
     margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 button {
@@ -95,4 +78,21 @@ button {
 
 button:hover {
     background-color: rgb(40, 71, 55);
+}
+
+/* Media queries for responsiveness */
+@media screen and (max-width: 768px) {
+    .cell {
+        width: 20px;
+        height: 20px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .cell {
+        width: 15px;
+        height: 15px;
+        font-size: 12px;
+    }
 }

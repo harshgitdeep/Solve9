@@ -80,19 +80,3 @@ button:hover {
     background-color: rgb(40, 71, 55);
 }
 
-/* Media queries for responsiveness */
-@media screen and (max-width: 768px) {
-    .cell {
-        width: 20px;
-        height: 20px;
-        font-size: 14px;
-    }
-}
-
-@media screen and (max-width: 480px) {
-    .cell {
-        width: 15px;
-        height: 15px;
-        font-size: 12px;
-    }
-}

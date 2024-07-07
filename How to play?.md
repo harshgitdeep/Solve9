@@ -1,8 +1,14 @@
-# Sudoku Game
+# I'll teach you how to play Sudoku Game 🕹️
+<a href="https://solve9.vercel.app/"><img src="https://github.com/harshgitdeep/Solve9/assets/88957566/571003f8-6625-41d1-8bdc-8c5a22bd14f7" alt="Sudoku" height="400" ></a>
 
-## Overview
 
+
+## Do you know what is sudoku?
 Sudoku is a popular puzzle game that involves placing numbers from 1 to 9 into a 9x9 grid. The grid is divided into 3x3 sub-grids called "regions", and the objective is to fill the grid so that each column, each row, and each of the nine 3x3 sub-grids contain all of the digits from 1 to 9. The puzzle starts with some cells pre-filled with numbers, known as "givens" or "clues".
+
+<a href="https://solve9.vercel.app/"><img src="https://github.com/harshgitdeep/Solve9/assets/88957566/b4cd4d65-518a-4923-8586-dc7995b66cf2" alt="Sudoku-Day_feature" height="300" ></a>
+
+
 
 ## How to Play
 
@@ -33,4 +39,7 @@ Here's an example of a Sudoku puzzle and its solution:
 - **Use the process of elimination:** Deduce which numbers can or cannot go in each cell by examining the other numbers in the row, column, and region.
 
 - **Practice regularly:** Sudoku improves with practice. The more you play, the better you'll get at recognizing patterns and strategies.
+
+<a href="https://solve9.vercel.app">![Subheading](https://github.com/harshgitdeep/Solve9/assets/88957566/8dd98bad-58f0-4df3-917a-6b664967e65e)</a>
+
 
